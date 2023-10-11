@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--ShanaEncoder-->
+<Settings>
+  <inputparamBox />
+  <prefixtextBox />
+  <extensiontextBox>HMHDR</extensiontextBox>
+  <filterparamBoxV> -vf "unsharp=5:5:0.04:5:5:0.0,shanasubtitle=0,hqdn3d=4:4:1:1,deblock=1"</filterparamBoxV>
+  <filterparamBoxA />
+  <encparamBox> -f mp4 -movflags faststart 
+ -c:v libx265  -threads 4 -shortest  -preset veryfast -crf 21.0 -tune:v ssim -qmin 18 -qmax 26
+ -c:a copy
+ -x265-params colorprim=bt2020:transfer=smpte2084:colormatrix=bt2020nc:master-display="G(13250,34500)B(7500,3000)R(34000,16000)WP(15635,16450)L(40000000,100)":max-cll=3995,2345:repeat-headers=1 profile=high:level=5.1 -color_range 1 -color_trc smpte2084 -color_primaries bt2020 -colorspace 9
+ -sn -map_metadata -1 -map_chapters -1 -libx265main10  -timestamp now -vsync cfr</encparamBox>
+  <x264optsBox />
+  <substyle>Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,思源黑体 CN Bold,65,&amp;H00FFFFFF,&amp;H0000FFFF,&amp;H00000000,&amp;H80000000,-1,0,0,0,100,100,0,0,1,0.5,2.0,2,10,10,0,1</substyle>
+  <fontnameSE />
+  <Logo>
+    <logochk>False</logochk>
+    <logopath />
+    <logoalign>7</logoalign>
+    <logox>5</logox>
+    <logoy>5</logoy>
+    <logow>0</logow>
+    <logoh>0</logoh>
+    <logos>1</logos>
+    <logosd>1</logosd>
+    <logoe>9</logoe>
+    <logoed>1</logoed>
+    <logoschk>True</logoschk>
+    <logoechk>True</logoechk>
+  </Logo>
+</Settings>
