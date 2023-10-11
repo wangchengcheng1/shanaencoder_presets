@@ -3,7 +3,7 @@
 <Settings>
   <inputparamBox />
   <prefixtextBox>[SHANA]</prefixtextBox>
-  <extensiontextBox>HMTV</extensiontextBox>
+  <extensiontextBox />
   <filterparamBoxV> -vf "shanasubtitle=1"</filterparamBoxV>
   <filterparamBoxA />
   <encparamBox> -f mp4 -movflags faststart  -timestamp now
