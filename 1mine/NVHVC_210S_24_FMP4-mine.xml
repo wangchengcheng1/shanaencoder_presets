@@ -2,17 +2,17 @@
 <!--ShanaEncoder-->
 <Settings>
   <inputparamBox />
-  <prefixtextBox />
+  <prefixtextBox>[SHANA]</prefixtextBox>
   <extensiontextBox>HMTV</extensiontextBox>
-  <filterparamBoxV> -vf "shanasubtitle=0"</filterparamBoxV>
+  <filterparamBoxV> -vf "shanasubtitle=1"</filterparamBoxV>
   <filterparamBoxA />
-  <encparamBox> -f mp4 -movflags faststart 
+  <encparamBox> -f mp4 -movflags faststart  -timestamp now
  -c:v hevc_nvenc -preset hq -tune:v hq -cq 24 -qmin 17 -qmax 35 -profile:v main10 -level auto
  -c:a copy
- -sn -timestamp now -map_metadata -1 -map_chapters -1 -shanakeyframe 10 -vsync cfr</encparamBox>
+ -sn -map_metadata -1 -map_chapters -1 -shanakeyframe 10 -vsync cfr -assforcestyle</encparamBox>
   <x264optsBox />
   <substyle>Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
-Style: Default,,22,&amp;H00FFFFFF,&amp;H0000FFFF,&amp;H00000000,&amp;H80000000,-1,0,0,0,100,100,0,0,1,1,1,2,10,10,20,1</substyle>
+Style: Default,Microsoft YaHei UI,18,&amp;H00FFFFFF,&amp;H0000FFFF,&amp;H00000000,&amp;H80000000,-1,0,0,0,100,100,0,0,1,1,1,1,10,10,10,1</substyle>
   <fontnameSE />
   <Logo>
     <logochk>False</logochk>
