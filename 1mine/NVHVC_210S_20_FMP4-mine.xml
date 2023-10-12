@@ -6,7 +6,7 @@
   <extensiontextBox />
   <filterparamBoxV> -vf "shanasubtitle=1"</filterparamBoxV>
   <filterparamBoxA />
-  <encparamBox> -f mp4 -movflags faststart  -timestamp now
+  <encparamBox> -f mp4  -timestamp now
  -c:v hevc_nvenc -preset hq -tune:v hq -cq 20 -qmin 9 -qmax 18 -profile:v main10 -level auto
  -c:a copy
  -sn -map_metadata -1 -map_chapters -1 -shanakeyframe 10 -vsync cfr -assforcestyle</encparamBox>
