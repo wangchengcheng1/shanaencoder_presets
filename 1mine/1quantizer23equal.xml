@@ -2,12 +2,12 @@
 <!--ShanaEncoder-->
 <Settings>
   <inputparamBox />
-  <prefixtextBox>[SHANA][quantizer18]</prefixtextBox>
+  <prefixtextBox>[SHANA][quantizer23]</prefixtextBox>
   <extensiontextBox />
   <filterparamBoxV> -vf "shanasubtitle=1"</filterparamBoxV>
   <filterparamBoxA> -af "volume=1.2"</filterparamBoxA>
   <encparamBox> -f mp4  -timestamp now
- -c:v hevc_nvenc -preset hq -tune:v hq -qp 18 -profile:v main10 -level auto
+ -c:v hevc_nvenc -preset hq -tune:v hq -qp 23 -profile:v main10 -level auto
  -c:a libfdk_aac -b:a 128k -fdkprofile he
  -sn -map_metadata -1 -map_chapters -1 -shanakeyframe 10 -vsync cfr -assforcestyle</encparamBox>
   <x264optsBox />

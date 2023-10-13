@@ -2,7 +2,7 @@
 <!--ShanaEncoder-->
 <Settings>
   <inputparamBox />
-  <prefixtextBox>[SHANA]</prefixtextBox>
+  <prefixtextBox>[SHANA][quantizer22]</prefixtextBox>
   <extensiontextBox />
   <filterparamBoxV> -vf "shanasubtitle=1"</filterparamBoxV>
   <filterparamBoxA> -af "volume=1.2"</filterparamBoxA>
