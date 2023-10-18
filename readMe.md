@@ -301,3 +301,5 @@ shanaencoder再次学习。拼接就是合并视频。
 缩略图
 2h的片子jp的一般都是3840宽度，一行4个，一共8列。一共32张图。都是初号字体大小
 30min的片子，oubi,2880宽度，横向3个，竖向3个，一共9张图
+
+5版本的shanaencoder的-vsync cfr就是6版本的-fps_mode cfr
