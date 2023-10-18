@@ -2,8 +2,8 @@
 <!--ShanaEncoder-->
 <Settings>
   <inputparamBox />
-  <prefixtextBox>[SHANA][720pQuantizer25]</prefixtextBox>
-  <extensiontextBox />
+  <prefixtextBox />
+  <extensiontextBox>[720pQuantizer25]</extensiontextBox>
   <filterparamBoxV> -vf "scale=1280:720:flags=bicubic,shanapad=Auto,setsar=1/1,shanasubtitle=1"</filterparamBoxV>
   <filterparamBoxA> -af "volume=1.2"</filterparamBoxA>
   <encparamBox> -f mp4  -timestamp now
