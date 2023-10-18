@@ -3,12 +3,12 @@
 <Settings>
   <inputparamBox />
   <prefixtextBox />
-  <extensiontextBox>[720pQuantizer24]</extensiontextBox>
-  <filterparamBoxV> -vf "scale=-2:720:flags=bicubic,shanapad=Auto,setsar=1/1,shanasubtitle=1"</filterparamBoxV>
+  <extensiontextBox>[quantizer21].mp4</extensiontextBox>
+  <filterparamBoxV> -vf "shanasubtitle=1"</filterparamBoxV>
   <filterparamBoxA> -af "volume=1.2"</filterparamBoxA>
   <encparamBox> -f mp4  -timestamp now
- -c:v hevc_nvenc -preset hq -tune:v hq -qp 24 -profile:v main10 -level auto
- -c:a libfdk_aac -b:a 128k -fdkprofile he
+ -c:v libx265 -preset veryfast -tune:v ssim -qp 21 -libx265main10
+ -c:a libfdk_aac -b:a 192k -fdkprofile he
  -sn -map_metadata -1 -map_chapters -1 -shanakeyframe 10 -vsync cfr -assforcestyle</encparamBox>
   <x264optsBox />
   <substyle>Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding

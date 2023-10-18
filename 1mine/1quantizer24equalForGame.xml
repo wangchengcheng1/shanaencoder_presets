@@ -8,7 +8,7 @@
   <filterparamBoxA> -af "volume=1.2"</filterparamBoxA>
   <encparamBox> -f mp4  -timestamp now
  -c:v h264_nvenc -preset hq -tune:v hq -qp 24 -profile:v baseline -level auto
- -c:a libfdk_aac -b:a 128k -fdkprofile he
+ -c:a libfdk_aac -b:a 192k -fdkprofile he
  -sn -map_metadata -1 -map_chapters -1 -shanakeyframe 10 -vsync cfr -assforcestyle</encparamBox>
   <x264optsBox />
   <substyle>Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
