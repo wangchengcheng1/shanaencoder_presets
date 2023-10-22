@@ -303,3 +303,11 @@ shanaencoder再次学习。拼接就是合并视频。
 30min的片子，oubi,2880宽度，横向3个，竖向3个，一共9张图
 
 5版本的shanaencoder的-vsync cfr就是6版本的-fps_mode cfr
+
+GRCH2931GRCH-2931FHDmotoko水野朝陽水野朝阳(1grch02931)[GIRL’SCH]C-3探偵事務所〜あらゆる調査を、[quantizer20]
+128kbps音频大小：1950MB
+192kbps音频大小：2000MB
+
+VANDR084CF家庭教师的诱惑hatanoYui.[quantizer22]
+128的大小：1910MB
+192的大小：1950MB
