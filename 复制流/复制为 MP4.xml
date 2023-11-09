@@ -3,7 +3,7 @@
 <Settings>
   <inputparamBox />
   <prefixtextBox />
-  <extensiontextBox>.mp4</extensiontextBox>
+  <extensiontextBox />
   <filterparamBoxV />
   <filterparamBoxA />
   <encparamBox> -f mp4 -c:v copy -c:a copy -sn -map_metadata -1 -map_chapters -1 -timestamp now</encparamBox>
