@@ -374,12 +374,19 @@ PPPD-927CF彼女藤森hhd800.com@pppd00927hhb.[quality30]1.77g
 参考视频DVAJ599小花暖
 origin:6003，5747,
 30质量：对应数据速率1824。2016总比特率。单位都是kbps
-28质量：2503，2695
+28质量：2503，2695，大小2.76g
+上面这个是没有上下限的。下面这个是有上下限的
+DVAJ599CF住在对面楼的小花暖hhd800.com@dvaj00599hhb.[quality28] (1) 大小2.67g 。上限23，下限35。
+总比特率就是视频比特率加上音频比特率。
+28有上限下限:2414,2606
+1950固定比特率:1822,2014 2.07g 2h27min的片。根据每部片子色彩不同，大小也会不一样。
 26质量:3543,3351
+即使是没有h265的3.0之前的版本，也是可以通过CRF来控制输出文件大小的。
 
 
 MIAA414fujimoriRiho
 origin:5711,5967
+除以8就是每秒的KB数。714KB/S。反向推出这个视频大小是4.9G。
 30质量：2929，3121
 BLK465fujimori这部片本身就很糊，好像fanza让所有的片的比特率都固定的差不多。
 origin:5721,5977
@@ -394,6 +401,21 @@ MIAA-158MIAA158CF咻咻！追擊噴發！悶絶 歡迎來到男人潮吹泡泡�
 1227,1419
 PRED-122PRED122CF暗戀玩伴成了風俗妹。暴怒逼她連舔24小時 shinodaYuuDhd1080.com@pred00122hhb.[quantizer25].mp4
 1243,1435
+下面只写总比特率。音频比特率一般都是192
+MIAA-129MIAA129CF在新娘姿態妹妹身旁偷偷用巨臀誘惑新郎的大姊 shinodaYuuHhd1080.com@miaa00129hhb[quantizer23] 1678总比特率，减去192就是视频比特率。
+WANZ-869WANZ869CF喜欢锻炼的人qiShinodaYuuHhd1080.com@wanz00869hhb.1rhj28l8[quantizer23] 1721
+下面都是视频比特率，不喜欢的维持在1822左右就好了
+MIAE-358MIAE358CF連續射精．追擊噴潮！搾汁絕頂按摩 shinodaYuuDhd1080.com@miae00358hhb.dgra[quantizer25] 1308视频比特率
+PPPD-725PPPD725CF巨乳女教師的誘惑 shinodaYuuDhd1080.com@pppd00725hhb.qxnax6pl[quantizer23]1606
+CJOD-175CJOD175CF不让我好好看书shinodaYuuHhd1080.com@cjod00175hhb.gdfjv4qm[quantizer23]1663
+BLK465CF一日宾馆生活藤森hhd800.com@blk00465hhb.gzxcszlr.[quality32]有上下限 1863.可以认为32质量约等于1950定制的比特率。
+BLK465CF一日宾馆生活藤森hhd800.com@blk00465hhb.gzxcszlr两网盘备份.[quality34]1431无上下限
+JUFE333FHD藤森2hhd800.com@jufe00333hhb.[quality32] (1)2029无上下限
+MIAA508CF和店主打工出轨的藤森hhd800.com@miaa00508hhb.[quality28]2858无上下限
+MIAA573CF高级风俗娘藤森hhd800.com@miaa00573hhb.[quantizer26]1430
+MIDD725CF大山相泽莉娜midd00725-1(1).[quality28]3794无上下限
+MTALL003FHD宾馆VS两男藤森hhd800.com@h_1608mtall00003hhb.[quality32]2113无上下限。无就代表无上下限
+PPPD-927CF彼女藤森hhd800.com@pppd00927hhb.[quality28]2614无
 UP主的上下限，我们可以参考参考。不清晰的上限我们可以定25，清晰的下限定20。下限清晰我们定35。上限20-25，下限35。
 hq -cq 28 -qmin 21 -qmax 35
 30 -qmin 25 -qmax 35 
