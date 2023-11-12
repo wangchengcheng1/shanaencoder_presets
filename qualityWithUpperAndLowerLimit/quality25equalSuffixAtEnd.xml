@@ -3,13 +3,13 @@
 <Settings>
   <inputparamBox />
   <prefixtextBox />
-  <extensiontextBox>[1950bitRites].mp4</extensiontextBox>
+  <extensiontextBox>[quality25].mp4</extensiontextBox>
   <filterparamBoxV> -vf "shanasubtitle=1"</filterparamBoxV>
   <filterparamBoxA> -af "volume=1.2"</filterparamBoxA>
   <encparamBox> -f mp4  -timestamp now
- -c:v hevc_nvenc -preset hq -tune:v hq -b:v 1950k -profile:v main10 -level auto -shanarcmode const
+ -c:v hevc_nvenc -preset hq -tune:v hq -cq 25 -profile:v main10 -level auto
  -c:a libfdk_aac -b:a 192k -fdkprofile he
- -sn -map_metadata -1 -map_chapters -1 -assforcestyle</encparamBox>
+ -sn -map_metadata -1 -map_chapters -1 -shanakeyframe 10 -vsync cfr -assforcestyle</encparamBox>
   <x264optsBox />
   <substyle>Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
 Style: Default,Microsoft YaHei UI,18,&amp;H00FFFFFF,&amp;H0000FFFF,&amp;H00000000,&amp;H80000000,-1,0,0,0,100,100,0,0,1,0.5,0,1,10,10,10,1</substyle>
