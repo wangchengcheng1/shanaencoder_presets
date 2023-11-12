@@ -3,11 +3,11 @@
 <Settings>
   <inputparamBox />
   <prefixtextBox />
-  <extensiontextBox>[quality31].mp4</extensiontextBox>
+  <extensiontextBox>[qualityCpu30].mp4</extensiontextBox>
   <filterparamBoxV> -vf "shanasubtitle=1"</filterparamBoxV>
   <filterparamBoxA> -af "volume=1.2"</filterparamBoxA>
   <encparamBox> -f mp4  -timestamp now
- -c:v hevc_nvenc -preset hq -tune:v hq -cq 31 -qmin 24 -qmax 35 -profile:v main10 -level auto
+ -c:v libx265 -preset veryfast -tune:v ssim -crf 30.0 -qmin 23 -qmax 35
  -c:a libfdk_aac -b:a 192k -fdkprofile he
  -sn -map_metadata -1 -map_chapters -1 -shanakeyframe 10 -vsync cfr -assforcestyle</encparamBox>
   <x264optsBox />
