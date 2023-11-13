@@ -377,10 +377,40 @@ ShanaEncoder，H265高清视频编码压制软件，堪称最强视频压制软�
 DVAJ599CF住在对面楼的小花暖hhd800.com@dvaj00599hhb.[quantizer24]1.62g
 DVAJ599CF住在对面楼的小花暖hhd800.com@dvaj00599hhb.[quality30]2.07g
 
+JUFE-417JUFE417FHD网状衣M男shinodaYuuHhd800.com@jufe00417hhb.[qualityCpu28]918视频比特率1.25g
+JUFE-417JUFE417FHD网状衣M男shinodaYuuHhd800.com@jufe00417hhb.[quality28]3.80g 3193比特率
+231113cpuH265压制方法实在是太慢了，使用的处理器是锐龙3600不算特别强但是也不是垃圾，相比显卡压制速度慢了可能3倍以上，以后还是使用显卡压制h265格式。
+qualityCpu
+DASS106CF家政妇小花暖hhd800.com@dass00106hhb.[qualityCpu30].mp4
+0.74g
+创建时间：2023-11-13
+579视频比特率
+
+MIAA129CF结婚时候和姐姐偷情筱田优hhd1080.com@miaa00129hhb.scbmf6v4.[qualityCpu32].mp4
+0.69g
+创建时间：2023-11-13
+631
+
+MIAA414CF双女宾馆藤森hhd800.com@miaa00414hhb.[qualityCpu32].mp4
+1.42g
+创建时间：2023-11-13
+1157
+
+MIAA508CF和店主打工出轨的藤森hhd800.com@miaa00508hhb.[qualityCpu28].mp4
+0.79g
+创建时间：2023-11-13
+748
+
+MIAA573CF高级风俗娘藤森hhd800.com@miaa00573hhb.[qualityCpu32].mp4
+1.06g
+创建时间：2023-11-13
+816
+
+
 PPPD-927CF彼女藤森hhd800.com@pppd00927hhb.[quality20]7.06g
 PPPD-927CF彼女藤森hhd800.com@pppd00927hhb.[quantizer22]1.75g
 PPPD-927CF彼女藤森hhd800.com@pppd00927hhb.[quality30]1.77g
-
+JUFE-417JUFE417FHD网状衣M男shinodaYuuHhd800.com@jufe00417hhb[quantizer22] 2705视频比特率 3.26g
 30的质量器差不多是22的量化器大小。26质量器太大了。
 参考视频DVAJ599小花暖
 origin:6003，5747,
