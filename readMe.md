@@ -394,11 +394,13 @@ MIAA129CF结婚时候和姐姐偷情筱田优hhd1080.com@miaa00129hhb.scbmf6v4.[
 0.69g
 创建时间：2023-11-13
 631
+MIAA129CF结婚时候和姐姐偷情筱田优hhd1080.com@miaa00129hhb.scbmf6v4.[quality30] 1677
 
 MIAA414CF双女宾馆藤森hhd800.com@miaa00414hhb.[qualityCpu32].mp4
 1.42g
 创建时间：2023-11-13
 1157
+MIAA414CF双女宾馆藤森hhd800.com@miaa00414hhb.[quality32]　2201
 
 MIAA508CF和店主打工出轨的藤森hhd800.com@miaa00508hhb.[qualityCpu28].mp4
 0.79g
@@ -442,13 +444,16 @@ PPPE011CF不伦性欲处理机器藤森hhd800.com@pppe00011hhb
 origin:5741,5997
 VENX161CF脫掉內褲將外甥精子榨乾的叔母 shinodaYuuHhd800.com@VENX-161[audioCopyQuantizer26]
 1558,1687
+VENX161CF脫掉內褲將外甥精子榨乾的叔母 篠田優hhd800.com@VENX-161.[transTo1080pQuality32]1848
 MIAA-158MIAA158CF咻咻！追擊噴發！悶絶 歡迎來到男人潮吹泡泡浴shinodaYuuHhd1080.com[quantizer25]
 1227,1419
 PRED-122PRED122CF暗戀玩伴成了風俗妹。暴怒逼她連舔24小時 shinodaYuuDhd1080.com@pred00122hhb.[quantizer25].mp4
 1243,1435
+PRED122CF暗戀玩伴成了風俗妹。暴怒逼她連舔24小時 篠田優dhd1080.com@pred00122hhb.hie8t3f5.[quality30]1910视频比特率
 下面只写总比特率。音频比特率一般都是192
 MIAA-129MIAA129CF在新娘姿態妹妹身旁偷偷用巨臀誘惑新郎的大姊 shinodaYuuHhd1080.com@miaa00129hhb[quantizer23] 1678总比特率，减去192就是视频比特率。
 WANZ-869WANZ869CF喜欢锻炼的人qiShinodaYuuHhd1080.com@wanz00869hhb.1rhj28l8[quantizer23] 1721
+WANZ869CF喜欢锻炼的人qi筱田优hhd1080.com@wanz00869hhb.1rhj28l8.[quality28]2370
 下面都是视频比特率，不喜欢的维持在1822左右就好了
 MIAE-358MIAE358CF連續射精．追擊噴潮！搾汁絕頂按摩 shinodaYuuDhd1080.com@miae00358hhb.dgra[quantizer25] 1308视频比特率
 PPPD-725PPPD725CF巨乳女教師的誘惑 shinodaYuuDhd1080.com@pppd00725hhb.qxnax6pl[quantizer23]1606
@@ -514,9 +519,11 @@ BF625CF上司和我是情人藤森hhd800.com@bf00625hhb.[quality34].mp4
 1.69g
 创建时间：2023-11-12
 
-BF667CF家政妇巨乳小花暖hhd800.com@bf00667hhb.[quality29].mp4
+BF667CF家政妇巨乳小花暖hhd800.com@bf00667hhb.[quality29].mp4 2820视频比特率
 2.78g
 创建时间：2023-11-12
+BF667CF家政妇巨乳小花暖hhd800.com@bf00667hhb.[quality32] (1)1797
+CJOD175CF不让我好好看书筱田hhd1080.com@cjod00175hhb.gdfjv4qm.[quality28]2517视频比特率
 
 BLK465CF一日宾馆生活藤森hhd800.com@blk00465hhb.gzxcszlr.[quality34].mp4
 1.71g
@@ -593,6 +600,9 @@ PPPD-927CF彼女藤森hhd800.com@pppd00927hhb.[quality28].mp4
 PPPD-927CF彼女藤森hhd800.com@pppd00927hhb.[quality30].mp4
 1.77g
 创建时间：2023-11-11
+
+JUFE-417JUFE417FHD网状衣M男shinodaYuuHhd800.com@jufe00417hhb.[quality28]3.8g 上限21下限35 3193视频比特率
+JUFE-417JUFE417FHD网状衣M男shinodaYuuHhd800.com@jufe00417hhb.[quality28]上限修改成22其他不变，大小什么的还是一样
 
 PPPD-927CF彼女藤森hhd800.com@pppd00927hhb.[quantizer22].mp4
 1930视频比特率
