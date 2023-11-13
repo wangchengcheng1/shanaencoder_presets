@@ -379,7 +379,11 @@ DVAJ599CF住在对面楼的小花暖hhd800.com@dvaj00599hhb.[quality30]2.07g
 
 JUFE-417JUFE417FHD网状衣M男shinodaYuuHhd800.com@jufe00417hhb.[qualityCpu28]918视频比特率1.25g
 JUFE-417JUFE417FHD网状衣M男shinodaYuuHhd800.com@jufe00417hhb.[quality28]3.80g 3193比特率
+JUFE-417JUFE417FHD网状衣M男shinodaYuuHhd800.com@jufe00417hhb.[quality30]2381 2.89g
 231113cpuH265压制方法实在是太慢了，使用的处理器是锐龙3600不算特别强但是也不是垃圾，相比显卡压制速度慢了可能3倍以上，以后还是使用显卡压制h265格式。
+MIAA508CF和店主打工出轨的藤森hhd800.com@miaa00508hhb.[quality28]2858无上下限
+MIAA508CF和店主打工出轨的藤森hhd800.com@miaa00508hhb.[quality28]2858有上下限
+
 qualityCpu
 DASS106CF家政妇小花暖hhd800.com@dass00106hhb.[qualityCpu30].mp4
 0.74g
@@ -454,6 +458,10 @@ BLK465CF一日宾馆生活藤森hhd800.com@blk00465hhb.gzxcszlr两网盘备份.[
 JUFE333FHD藤森2hhd800.com@jufe00333hhb.[quality32] (1)2029无上下限
 MIAA508CF和店主打工出轨的藤森hhd800.com@miaa00508hhb.[quality28]2858无上下限
 MIAA573CF高级风俗娘藤森hhd800.com@miaa00573hhb.[quantizer26]1430
+MIAA573CF高级风俗娘藤森hhd800.com@miaa00573hhb.[quality32]1759有上下限
+参数如果给错了，shanaencoder是无法运行的，所以不要害怕参数写错了，写错了会提示你。
+0是真无损，10以下属于接近无损，18以下可以理解成肉眼不可见的损失，18-23是小损失，24-28是肉眼可接受的损失，28以上，较大损失，40以上肉眼无法接受的损失。
+MIAA508CF和店主打工出轨的藤森hhd800.com@miaa00508hhb.[quality28] (1)2858视频比特率有上下限
 MIDD725CF大山相泽莉娜midd00725-1(1).[quality28]3794无上下限
 MTALL003FHD宾馆VS两男藤森hhd800.com@h_1608mtall00003hhb.[quality32]2113无上下限。无就代表无上下限
 PPPD-927CF彼女藤森hhd800.com@pppd00927hhb.[quality28]2614无
@@ -587,8 +595,10 @@ PPPD-927CF彼女藤森hhd800.com@pppd00927hhb.[quality30].mp4
 创建时间：2023-11-11
 
 PPPD-927CF彼女藤森hhd800.com@pppd00927hhb.[quantizer22].mp4
+1930视频比特率
 1.76g
 创建时间：2023-11-11
+PPPD-927CF彼女藤森hhd800.com@pppd00927hhb.[quality30] (1)1951视频比特率 有上下限
 
 PPPE011CF不伦性欲处理机器藤森hhd800.com@pppe00011hhb.[quality29].mp4
 2.71g
