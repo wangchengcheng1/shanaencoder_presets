@@ -454,6 +454,7 @@ PRED122CF暗戀玩伴成了風俗妹。暴怒逼她連舔24小時 篠田優dhd10
 MIAA-129MIAA129CF在新娘姿態妹妹身旁偷偷用巨臀誘惑新郎的大姊 shinodaYuuHhd1080.com@miaa00129hhb[quantizer23] 1678总比特率，减去192就是视频比特率。
 WANZ-869WANZ869CF喜欢锻炼的人qiShinodaYuuHhd1080.com@wanz00869hhb.1rhj28l8[quantizer23] 1721
 WANZ869CF喜欢锻炼的人qi筱田优hhd1080.com@wanz00869hhb.1rhj28l8.[quality28]2370
+MIAA376CF勾引女儿男朋友本真hhd800.com@miaa00376hhb.[quality32]1333视频比特率，比较糊，无法接受的压缩损失，
 下面都是视频比特率，不喜欢的维持在1822左右就好了
 MIAE-358MIAE358CF連續射精．追擊噴潮！搾汁絕頂按摩 shinodaYuuDhd1080.com@miae00358hhb.dgra[quantizer25] 1308视频比特率
 PPPD-725PPPD725CF巨乳女教師的誘惑 shinodaYuuDhd1080.com@pppd00725hhb.qxnax6pl[quantizer23]1606
@@ -613,3 +614,8 @@ PPPD-927CF彼女藤森hhd800.com@pppd00927hhb.[quality30] (1)1951视频比特率
 PPPE011CF不伦性欲处理机器藤森hhd800.com@pppe00011hhb.[quality29].mp4
 2.71g
 创建时间：2023-11-12
+
+1812视频比特率压缩的MIAA376我认为是画质下限了，1542视频比特率的质量31看屁股太糊了，无法忍受。重新看了一下，原视频也不行。所以说1542这个比特率还能忍，32质量下1333的比特率实在无法忍受了！
+MIAA376CF勾引女儿男朋友本真hhd800.com@miaa00376hhb.[quality31]这个最低35和最低33的画质是一摸一样的
+NGOD-136CF连锁店收营员本真.[quality32]1518视频比特率还是能看得下去的。
+VEC-522VEC522CF妻子朋友教訓外遇被發現的絕倫肉食老公 shinodaYuuHhd800.com@vec005[transTo1080pQuantizer27] 1154，视频比特率小的惊人。试一试质量模式看看
