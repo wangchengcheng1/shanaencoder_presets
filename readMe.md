@@ -619,3 +619,7 @@ PPPE011CF不伦性欲处理机器藤森hhd800.com@pppe00011hhb.[quality29].mp4
 MIAA376CF勾引女儿男朋友本真hhd800.com@miaa00376hhb.[quality31]这个最低35和最低33的画质是一摸一样的
 NGOD-136CF连锁店收营员本真.[quality32]1518视频比特率还是能看得下去的。
 VEC-522VEC522CF妻子朋友教訓外遇被發現的絕倫肉食老公 shinodaYuuHhd800.com@vec005[transTo1080pQuantizer27] 1154，视频比特率小的惊人。试一试质量模式看看
+MANE-029MANE029CFM男mizunoAsahiDhd1080.com@1mane00029.zyyfkdee[quantizer20]1509
+PRED-079PRED079CF嫂子勾引我shinodaYuuXhd1080.com@pred00079hhb[quantizer24]1411
+MIAA-399MIAA399FHD按摩师honmaYuriHhd800.com@miaa00399hhb[quantizer26]1027
+EKW-076EKW076CF接吻控制honmaYuriHhd800.com@2ekw00076hhb[quantizer25]1600，这个也是比较糊的，介于能忍和不能忍中间。
